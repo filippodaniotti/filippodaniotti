@@ -1,5 +1,9 @@
 ## Hi!
 
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+](https://t.me/texcoco)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fpp.daniotti@gmail.com/)
+
 ### About me
 * BSc in Computer Science at University of Trento
 * Previously intern researcher and developer at Knowdive Group
@@ -24,9 +28,6 @@ Notes and study materials
 * [Appunti Calcolatori](https://github.com/francescobozzo/Appunti-Calcolatori)
 * [Simulazioni PrAva](https://github.com/filippodaniotti/Simulazioni-PrAva)
 
-### Contacts
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-](https://t.me/texcoco)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fpp.daniotti@gmail.com/)
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=filippodaniotti)](https://github.com/anuraghazra/github-readme-stats)
+-->
