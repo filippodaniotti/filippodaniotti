@@ -1,16 +1,32 @@
-### Hi there 👋
+## Hi!
 
-<!--
-**filippodaniotti/filippodaniotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+* BSc in Computer Science at University of Trento
+* Previously intern researcher and developer at Knowdive Group
+* Currently Master's student in Artificial Intelligence Systems at University of Trento, specializing in Computer Vision 
 
-Here are some ideas to get you started:
+### Projects
+Machine learning
+* [Domain Adaptation (DL)](https://github.com/filippodaniotti/DL-domain-adaptation)
+* [Domain Adaptation (TACV)](https://github.com/filippodaniotti/TACV-DA-project)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Signal processing
+* [Global Motion Estimation](https://github.com/Samaretas/global-motion-estimation)
+
+System programming
+* [LabOS](https://github.com/MarcoDiFrancesco/ProgettoSistemiOperativi)
+
+Full stack
+* [UniBuk](https://github.com/Pappol/UniBuk)
+
+Notes and study materials
+* [Appunti LFC](https://github.com/filippodaniotti/Appunti-LFC)
+* [Appunti Calcolatori](https://github.com/francescobozzo/Appunti-Calcolatori)
+* [Simulazioni PrAva](https://github.com/filippodaniotti/Simulazioni-PrAva)
+
+### Contacts
+[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+](https://t.me/texcoco)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fpp.daniotti@gmail.com/)
+
+[![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=filippodaniotti)](https://github.com/anuraghazra/github-readme-stats)
