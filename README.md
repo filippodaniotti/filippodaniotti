@@ -5,9 +5,10 @@
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fpp.daniotti@gmail.com/)
 
 ### About me
-* BSc in Computer Science at University of Trento
-* Previously intern researcher and developer at Knowdive Group
-* Currently Master's student in Artificial Intelligence Systems at University of Trento, specializing in Computer Vision 
+* BSc in Computer Science at [University of Trento](https://www.unitn.it/en)
+* Previously intern researcher and developer at [Knowdive Group](http://knowdive.disi.unitn.it/)
+* Currently Master's student in [Artificial Intelligence Systems](https://offertaformativa.unitn.it/en/lm/artificial-intelligence-systems) at University of Trento, specializing in Computer Vision 
+* Exchange student at [Eindhoven University of Technology](https://www.tue.nl/en/)
 
 ### Projects
 Machine learning
