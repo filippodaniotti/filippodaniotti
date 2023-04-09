@@ -20,6 +20,7 @@ Signal processing
 
 System programming
 * [LabOS](https://github.com/MarcoDiFrancesco/ProgettoSistemiOperativi)
+* [Distributed Aggregate Variance](https://github.com/sandercauberg/2AMD15-Project)
 
 Full stack
 * [UniBuk](https://github.com/Pappol/UniBuk)
